@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PanicBus</string>
+    <!-- Main ACTIVITY-->
+    <string name="ma_et_linha">Linha</string>
+    <string name="ma_et_number">Numero do Onibus</string>
+    <string name="ma_et_sentido">Sentido</string>
+
+</resources>
